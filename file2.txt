@@ -1,0 +1,1 @@
+Second file for file2.txt
